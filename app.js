@@ -4,7 +4,7 @@ Ext.Loader.setConfig({
 
 Ext.application({
     views: [
-  'myPanel'
+	'myPanel'
     ],
 
     autoCreateViewport: true,
